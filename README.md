@@ -8,7 +8,7 @@ Note:
 4. Add the logic from routes.js in to your routes file.
 5. Update your package.jason file to include the required node modules.
 
-![alt tag](https://raw.githubusercontent.com/shubham21-cyber/Tweezer-Twitter-sentimental-analysis-/main/Screenshot%20(27).png)
+![alt tag](https://github.com/shubham21-cyber/TwitterSentimental-Analysis/blob/main/Screenshot/Screenshot%20(27).png?raw=true)
 ![alt tag](https://github.com/shubham21-cyber/Tweezer-Twitter-sentimental-analysis-/blob/main/Screenshot%20(29).png?raw=true)
 ![alt tag](https://github.com/shubham21-cyber/Tweezer-Twitter-sentimental-analysis-/blob/main/Screenshot%20(30).png?raw=true)
 
