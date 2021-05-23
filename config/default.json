@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://admin:admin@tsa.7isv2.mongodb.net/TSA?retryWrites=true&w=majority"
+}
